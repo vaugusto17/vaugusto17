@@ -2,7 +2,7 @@
     <img src="https://github.com/zangadoprojets/pi-hole-block-list/blob/main/readme_imagens/PiHoleb.png" width="600px" alt="PiHoleb.png">
 </a>
 
-# Lista de Bloqueio (Blocklist) para Pi-hole 
+# Lista de Bloqueio (Blocklist) para Pi-hole --REINALDO 
 Neste repositório encontram-se listas de bloqueios personalizados para o serviço PiHole. (Pi-hole é um aplicativo para bloqueio de anúncios e rastreadores na Internet que atua como um serviço de DNS). Você pode usar em serviços semelhantes, AdGuard, Ublock, Hosts em geral.
 
 ## Porque usar esta listas de DNS/hosts 🔍
