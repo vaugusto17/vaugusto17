@@ -19,7 +19,7 @@ Este projeto visa unificar listas de bloqueio de DNS adicionando contribuições
 | Block Ransomware   | Bloqueia domínios com ransomware                    | 1.904              | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/ransomware.txt)     |
 | Block Spam         | Bloqueia domínios com e-mail spam                   | 209.320            | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/spam.mails.txt)     |
 | Block App TikTok   | Bloqueia aplicativo TikTok                          | 9.645              | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/tiktok.txt)         |
-| Block App Facebook | Bloqueia aplicativo Facebook                        | 24.634             | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/facebook.txt)       |
+| Block App Facebook | Bloqueia aplicativo Facebook                        | 24.634             | [list](https://raw.githubusercontent.com/vaugusto17/vaugusto17/master/facebook.txt)       |
 | Block App WhatsApp | Bloqueia aplicativo WhatsApp                        | 475                | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/whatsapp.txt)       |
 | Block Ads Youtube  | Bloqueia anúncios do youtube                        | 41.125             | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/youtube.txt)        |
 
